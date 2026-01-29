@@ -34,7 +34,7 @@ Raced a 5K as a baseline fitness check.
 Fitness returned naturally once consistency was re-established.
 
 3-4x weekday runs: 3-4 miles each  
-1-2x weekly tempo/threshold fartlek/strides. Switched to variable-distance speed as heat started to make fatigue less predictable.
+1-2x weekly tempo/threshold fartlek/strides. Switched to variable-distance speed as heat started to make fatigue less predictable.  
 Weekend long run: 7-9 miles
 
 Set a new 5K PR.
@@ -43,7 +43,7 @@ Set a new 5K PR.
 Durability mattered more than maximizing speed.
 
 3-4x weekday runs: 3-4 miles each  
-Occasional speed sessions. Summer heat and accumulated training fatigue meant speedwork was deprioritized to protect consistency.
+Occasional speed sessions. Summer heat and accumulated training fatigue meant speedwork was deprioritized to protect consistency.  
 Long run: 10-12 miles
 
 **Taper: October**  
@@ -63,7 +63,7 @@ In October 2026 I will be racing the Chicago Marathon as my first full marathon.
 
 This is my planned schedule, but of course it will change as needed to fit around my real life. As you can tell, the plan is not rigid, not highly structured, and mostly based around the long run as the most important run of the week.
 
-The structure mirrors what worked in half marathon training: frequent each runs, a graudally extending long run, and selective intensity when it fits.
+The structure mirrors what worked in half marathon training: frequent easy runs, a graudally extending long run, and selective intensity when it fits.
 
 |           | Mon | Tue | Wed | Thur | Fri | Sat | Sun | MPW |
 |-----------|-----|-----|-----|------|-----|-----|-----|-----|
