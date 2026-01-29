@@ -24,34 +24,34 @@ I raced the Detroit International Half Marathon in October 2025, my second HM. I
 **Base Phase: July**  
 The priority was restoring frequency without chasing fitness.
 
-3-4x weekday runs: 3-4 miles each  
-1-2x weekly tempo runs as long as I was feeling good.  
-Weekend long run: 5-7 miles
+- 3-4x weekday runs: 3-4 miles each  
+- 1-2x weekly tempo runs as long as I was feeling good.  
+- Weekend long run: 5-7 miles
 
 Raced a 5K as a baseline fitness check.
 
 **Building Phase: August**  
 Fitness returned naturally once consistency was re-established.
 
-3-4x weekday runs: 3-4 miles each  
-1-2x weekly tempo/threshold fartlek/strides. Switched to variable-distance speed as heat started to make fatigue less predictable.  
-Weekend long run: 7-9 miles
+- 3-4x weekday runs: 3-4 miles each  
+- 1-2x weekly tempo/threshold fartlek/strides. Switched to variable-distance speed as heat started to make fatigue less predictable.  
+- Weekend long run: 7-9 miles
 
 Set a new 5K PR.
 
 **Peak Phase: September-October**  
 Durability mattered more than maximizing speed.
 
-3-4x weekday runs: 3-4 miles each  
-Occasional speed sessions. Summer heat and accumulated training fatigue meant speedwork was deprioritized to protect consistency.  
-Long run: 10-12 miles
+- 3-4x weekday runs: 3-4 miles each  
+- Occasional speed sessions. Summer heat and accumulated training fatigue meant speedwork was deprioritized to protect consistency.  
+- Long run: 10-12 miles
 
 **Taper: October**  
 The goal was freshness, not sharpness.
 
-2-3 5km HM-pace runs  
-Final long run: 6 mile progressive HM pace  
-2 mile shakeout slow jog 2 days before race
+- 2-3 5km HM-pace runs  
+- Final long run: 6 mile progressive HM pace  
+- 2 mile shakeout slow jog 2 days before race
 
 ### What I wish I had done differently
 
