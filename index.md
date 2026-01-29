@@ -9,6 +9,9 @@ A methodology that fits into your life, not the other way around.
 
 This guide introduces the ideas behind **Equilibrium Running**: how to balance training with life. Mental health with physical fitness. Permission to change course.
 
+- [Examples](./examples)
+- [FAQ](./faq)
+
 ## What is Equilibrium Running?
 Equilibrium Running is a training philosophy built around one simple idea:  
 **Your life and your training exist at the same scale.**
@@ -98,13 +101,9 @@ It give you permission:
 - To slow down
 - To skip a run
 - To change course mid-week
-- TO value showing up tomorrow more than winning today
+- To value showing up tomorrow more than winning today
 
 If traditional plans tell you what to do, E-Running helps you decide **when not to**.
 
 And in the long run, that restraint is what keeps people running at all.
 
-
-- [What is Equilibrium Running?](/philosophy)
-- [Core Principles](/principles)
-- [FAQ](/faq)
