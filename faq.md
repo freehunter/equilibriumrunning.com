@@ -19,7 +19,7 @@ E-Running gives you the language and permission to adjust your goals without gui
 
 No. It's anti-rigidity.
 
-Structure is useful. Discipline is useful. but they only work when they're in conversation with reality. E-Running doesn't remove structure, it softens the edges so structure can survive real life.
+Structure is useful. Discipline is useful. But they only work when they're in conversation with reality. E-Running doesn't remove structure, it softens the edges so structure can survive real life.
 
 Skipping a run because you're exhausted isn't lack of discipline. Forcing a workout when you're depleted isn't toughness. Equilibrium is about choosing the option that keeps you training tomorrow, not just today.
 

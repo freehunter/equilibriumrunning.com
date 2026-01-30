@@ -24,14 +24,14 @@ Sometimes that means running less. Sometimes that means running slower. Sometime
 
 ## How Equilibrium Running Came To Be
 
-This philosophy didn't come from a lab or a podium. It came from disruption.
+This philosophy wasn't measured in a lab or built on a podium. It came from disruption.
 
-It came from major life changes and ongoing stress. Periods where consistency felt fragile but quitting felt worse. The traditional plan assumed an environment that no longer existed.
+It came from major life changes and ongoing stress. Periods where consistency felt fragile but quitting felt worse. The traditional plan assumed an environment that no longer existed. Surgeries, family emergencies, extreme weather events, disruption after disruption. Canceled race after canceled race.
 
 What emerged from that was a question:
 >"What is the *minimum structure* needed to keep progressing without breaking?"
 
-Asking this question, patterns appeared. Running frequently mattered more than running hard. Long runs anchored fitness even when everything else was falling apart. Speed work helped, but only when it fit. Progress came slowly, but it *stuck*.
+Asking this question, patterns appeared. Running *frequently* mattered more than running *hard*. Long runs anchored fitness even when everything else was falling apart. Speed work helped, but only when it fit, only when it felt good. Progress came slowly, but it *stuck*.
 
 E-Running is the accumulation of those observations. Not a system to follow, but a way to relate to training when life keeps saying no.
 
@@ -65,10 +65,12 @@ My own practice is intentionally boring.
 
 I run often. Usually short, usually easy. Most days are about rhythm, not achievement.
 
-A typical week includes:
+A typical week *for me* includes:
 - Near-daily runs at a sustainable pace
 - A weekend long run to anchor endurance
 - Occasional faster running, ideally twice a week but only when life allows
+
+It will look different to you.
 
 When life stress is high, the speed is the first thing to go. When life stress get extreme, volume shrinks. When that stress lifts, training expands naturally without forcing a "comeback".
 
